@@ -42,7 +42,9 @@ dados_testing.pkl.gz e dados_training.pkl.gz
 data.rar
 Contém a pasta data, depois mnist_png, que dentro, possui mais 2 pastas, a testing e a training. A pasta testing
 contém 10 mil imagens de dígitos manuais, separadas em 10 pastas com o nome do dígito. A pasta
-training é estruturada da mesma forma, porém, possui 60 mil imagens de dígitos no total
+training é estruturada da mesma forma, porém, possui 60 mil imagens de dígitos no total. São essas imagens que
+são processadas e transformadas porteriormente nos arquivos dados_testing.pkl.gz e dados_training.pkl.gz através
+do mnist_data.py.
 
 --------------------------------------------------------------------------------------------------
 
