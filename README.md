@@ -22,19 +22,20 @@ de dígitos manuais
 --------------------------------------------------------------------------------------------------
 
 main.py
-Usado preferencialmente para chamar as funções do network.py
+Usado preferencialmente para chamar as funções do network.py (criar e treinar as redes neurais)
 
 teste.py
-Usado preferencialmente para chamar as funções do Network.output.py
+Usado preferencialmente para chamar as funções do Network.output.py (testar as redes neurais já criadas e treinadas)
 
 network.py
 Usado para criar e treinar as redes neurais
 
 Network.output.py
-Usado para testar as redes neurais
+Usado para testar as redes neurais já criadas e treinadas
 
 mnist_data.py
-Usado para criar e formatar os dados que serão lidos pelas redes neurais como inputs e referencia.
+Usado para criar e formatar os dados que serão lidos pelas redes neurais como inputs e referencia. É ele quem cria os arquivos
+dados_testing.pkl.gz e dados_training.pkl.gz
 
 --------------------------------------------------------------------------------------------------
 
