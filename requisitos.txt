@@ -1,0 +1,4 @@
+bibliotecas necessárias para executar os arquivos:
+
+Numpy: https://numpy.org/
+Pillow (PIL Fork): https://pillow.readthedocs.io/en/stable/
