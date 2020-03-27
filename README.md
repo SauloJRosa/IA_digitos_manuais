@@ -42,3 +42,7 @@ data.rar
 Contém a pasta data, depois mnist_png, que dentro, possui mais 2 pastas, a testing e a training. A pasta testing
 contém 10 mil imagens de dígitos manuais, separadas em 10 pastas com o nome do dígito. A pasta
 training é estruturada da mesma forma, porém, possui 60 mil imagens de dígitos no total
+
+--------------------------------------------------------------------------------------------------
+
+OBS: Os códigos tiveram partes baseadas no código encontrado no seguinte livro digital: http://neuralnetworksanddeeplearning.com/chap1.html
