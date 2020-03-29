@@ -3,7 +3,7 @@ import Network_output
 import pickle
 import gzip
 
-#carregando um vetor de dados training com 10 mil imagens
+#carregando um vetor de dados testing com 10 mil imagens
 vetor_dados = mnist_data.carregar_dados_testing()
 
 #Pegando as informações da rede_neural_90 e alocando em pesos, biases e sizes
